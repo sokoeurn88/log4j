@@ -49,6 +49,11 @@ public class Log4J {
 		Assert.assertTrue(logo, "Wrong logo, please check");
 	}
 	
+	@Test
+	public void sampledemo(){
+		System.out.println("sampledemo");
+	}
+	
 	@AfterMethod
 	public void tearDown() {
 		driver.quit();
