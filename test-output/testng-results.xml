@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5682" started-at="2022-05-11T08:38:09 CDT" finished-at="2022-05-11T08:38:15 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5682" started-at="2022-05-11T08:38:09 CDT" finished-at="2022-05-11T08:38:15 CDT">
+      <class name="log4j.Log4J">
+        <test-method status="PASS" signature="setup()[pri:0, instance:log4j.Log4J@42d8062c]" name="setup" is-config="true" duration-ms="2647" started-at="2022-05-11T08:38:09 CDT" finished-at="2022-05-11T08:38:12 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="techfiosTitleTest()[pri:1, instance:log4j.Log4J@42d8062c]" name="techfiosTitleTest" duration-ms="13" started-at="2022-05-11T08:38:12 CDT" finished-at="2022-05-11T08:38:12 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- techfiosTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:log4j.Log4J@42d8062c]" name="tearDown" is-config="true" duration-ms="603" started-at="2022-05-11T08:38:12 CDT" finished-at="2022-05-11T08:38:12 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:log4j.Log4J@42d8062c]" name="setup" is-config="true" duration-ms="1759" started-at="2022-05-11T08:38:12 CDT" finished-at="2022-05-11T08:38:14 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="techfiosLogoTest()[pri:2, instance:log4j.Log4J@42d8062c]" name="techfiosLogoTest" duration-ms="39" started-at="2022-05-11T08:38:14 CDT" finished-at="2022-05-11T08:38:14 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- techfiosLogoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:log4j.Log4J@42d8062c]" name="tearDown" is-config="true" duration-ms="595" started-at="2022-05-11T08:38:14 CDT" finished-at="2022-05-11T08:38:15 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- log4j.Log4J -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
